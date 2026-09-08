@@ -1,7 +1,7 @@
 [build]
   base = "astro-zen"
   command = "pnpm run build"
-  publish = "astro-zen/dist"
+  publish = "dist"
 
 [build.environment]
   NODE_VERSION = "22.12.0"
