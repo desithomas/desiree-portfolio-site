@@ -64,25 +64,25 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
-      name: "Project 1 title", //edit the contents
-      summary: "A music streaming app that emulates Spotify's core features.",
+      name: "Philly Water Ice FrontPage", //edit the contents
+      summary: "The front page of a small business site located in Philly.",
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/spotifu.png",
+      linkSource: "https://github.com/desithomas/philly-water-ice",
+      image: "/philly-water-ice.png",
     },
     {
-      name: "Project 2 title", //edit the contents
-      summary: "An e-commerce platform that replicates Shopify's key features.",
+      name: "Japanese Women's Leadership Institute", //edit the contents
+      summary: "Front page of a site dedicated to empowering Japanese women and their community.",
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/shopify-clon.png",
+      linkSource: "https://github.com/desithomas/jwli-site",
+      image: "/jwli-screenshot.png",
     },
     {
-      name: "Project 3 title", //edit the contents
-      summary: "A social network that replicates the features of Instagram",
+      name: "Delancey Bagels", //edit the contents
+      summary: "Front page of a bagel shop on Delancey in NYC.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
-      image: "/clone-ig.png",
+      image: "/delancey-bagels.png",
     },
   ],
   about: { //edit the contents
