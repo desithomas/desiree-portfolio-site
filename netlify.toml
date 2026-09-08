@@ -1,0 +1,7 @@
+[build]
+  base = "astro-zen"
+  command = "pnpm run build"
+  publish = "astro-zen/dist"
+
+[build.environment]
+  NODE_VERSION = "20"
