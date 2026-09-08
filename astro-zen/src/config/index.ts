@@ -66,7 +66,7 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Philly Water Ice FrontPage", //edit the contents
       summary: "The front page of a small business site located in Philly.",
-      linkPreview: "/",
+      linkPreview: "https://phillyshavedicecream.netlify.app/",
       linkSource: "https://github.com/desithomas/philly-water-ice",
       image: "/philly-water-ice.png",
     },
