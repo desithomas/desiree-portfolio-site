@@ -28,8 +28,8 @@ export const SITE_CONTENT: SiteContent = {
     name: "Desiree Thomas",
     specialty: "Mobile & Web Developer",
     summary:
-      "Software Engineer based in NYC. I specialize in UI design, web and mobile application development and maintenance.",
-    email: "dthomas.dt@outlook.com",
+      "Software Engineer based in NYC. I specialize in UI design, web and mobile application development and maintenance. Currently accepting new clients. The best way to reach me is via email.",
+    email: "desireeathomas@outlook.com",
   },
   experience: [
     {
@@ -64,32 +64,32 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
-      name: "Philly Water Ice FrontPage", //edit the contents
+      name: "Philly Water Ice FrontPage", 
       summary: "The front page of a small business site located in Philly.",
       linkPreview: "https://phillyshavedicecream.netlify.app/",
       linkSource: "https://github.com/desithomas/philly-water-ice",
       image: "/philly-water-ice.png",
     },
     {
-      name: "Japanese Women's Leadership Institute", //edit the contents
+      name: "Japanese Women's Leadership Institute", 
       summary: "Front page of a site dedicated to empowering Japanese women and their community.",
-      linkPreview: "/",
+      linkPreview: "https://japanesewomenleadership.netlify.app/",
       linkSource: "https://github.com/desithomas/jwli-site",
       image: "/jwli-screenshot.png",
     },
     {
-      name: "Delancey Bagels", //edit the contents
+      name: "Delancey Bagels", 
       summary: "Front page of a bagel shop on Delancey in NYC.",
-      linkPreview: "/",
+      linkPreview: "https://delanceybagels.netlify.app/",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/delancey-bagels.png",
     },
   ],
   about: { //edit the contents
     description: `
-      Hi, I’m Desiree, a passionate Mobile and Web Developer with a knack for crafting seamless digital experiences. With a strong background in web development, as well as front-end web technologies, I thrive in the intersection where creativity meets technology.
+      Hi, I’m Desiree, a Software Engineer with a knack for crafting seamless digital experiences online. With a background in non-profit work and data science, I bring a unique set of skills to your side. 
 
-      I have honed my skills in building robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what’s possible. My projects range from innovative mobile applications to responsive web designs, all with a focus on performance, security, and scalability.
+      I build robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what is possible. My projects range from innovative responsive web designs along with a focus on performance, security, and scalability. I integrate data analytics upon request. 
     `,
     image: "/desiree-big.jpeg", //edit the contents
   },
