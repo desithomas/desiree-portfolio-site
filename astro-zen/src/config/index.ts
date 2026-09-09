@@ -28,7 +28,7 @@ export const SITE_CONTENT: SiteContent = {
     name: "Desiree Thomas",
     specialty: "Mobile & Web Developer",
     summary:
-      "Software Engineer based in NYC. I specialize in UI design, web and mobile application development and maintenance. Currently accepting new clients. The best way to reach me is via email.",
+      "Software Engineer based in NYC. I specialize in UI design, web and mobile application development and maintenance. Currently accepting new clients. The best way to reach me is via email: desireeathomas@outlook.com",
     email: "desireeathomas@outlook.com",
   },
   experience: [
