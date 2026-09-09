@@ -38,9 +38,9 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "Aug 2026",
       endDate: "Current",
       summary: [
-        "x",
-        "x",
-        "x",
+        "Full Stack Development (MERN)",
+        "Building and Mointaining websites for small & medium businesses",
+        "Integration of site analytics",
       ],
     },
     {
@@ -49,17 +49,17 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "Sep 2023",
       endDate: "Aug 2026",
       summary: [
-        "x",
-        "x",
+        "Data analytics focused on student retention and successful student outcomes",
+        "Automating processes using Microsoft Power Platform to reduce time intensive tasks",
       ],
     },
     {
-      company: "Animal Care Center of NYC",
+      company: "Animal Care Centers of NYC",
       position: "Surrender Prevention Coordinator",
-      startDate: "x",
-      endDate: "x",
+      startDate: "May 2022",
+      endDate: "Sep 2023",
       summary:
-        "x",
+        "Liased with partner veterinary vendors to provide clients with subsidized medical care for their pets to prevent surrender to NYC's animal shelter",
     },
   ],
   projects: [
@@ -89,9 +89,9 @@ export const SITE_CONTENT: SiteContent = {
     description: `
       Hi, I’m Desiree, a Software Engineer with a knack for crafting seamless digital experiences online. With a background in non-profit work and data science, I bring a unique set of skills to your side. 
 
-      I build robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what is possible. My projects range from innovative responsive web designs along with a focus on performance, security, and scalability. I integrate data analytics upon request. 
+      I build robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what is possible. My projects range from innovative responsive web designs with data science features that integrate a focus on performance, security, and scalability. 
     `,
-    image: "/desiree-big.jpeg", //edit the contents
+    image: "/desiree-big.jpeg", 
   },
 };
 
