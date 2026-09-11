@@ -20,7 +20,7 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "Youtube", href: "#" }, //create a YouTube account
   ],
   socialImage: "/zen-og.png",
-  canonicalURL: "https://astro-zen.vercel.app",
+  canonicalURL: "https://desireethomas.netlify.app",
 };
 
 export const SITE_CONTENT: SiteContent = {
