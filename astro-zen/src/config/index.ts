@@ -19,7 +19,7 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "Bluesky", href: "https://bsky.app/profile/desithom.bsky.social" },
     { text: "Youtube", href: "#" }, //create a YouTube account
   ],
-  socialImage: "/zen-og.png",
+  socialImage: "/des-og.jpeg",
   canonicalURL: "https://desireethomas.netlify.app",
 };
 
