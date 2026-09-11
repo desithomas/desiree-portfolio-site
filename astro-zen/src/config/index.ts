@@ -71,11 +71,11 @@ export const SITE_CONTENT: SiteContent = {
       image: "/philly-water-ice.png",
     },
     {
-      name: "Japanese Women's Leadership Institute", 
-      summary: "Front page of a site dedicated to empowering Japanese women and their community.",
-      linkPreview: "https://japanesewomenleadership.netlify.app/",
-      linkSource: "https://github.com/desithomas/jwli-site",
-      image: "/jwli-screenshot.png",
+      name: "Boston Barber", 
+      summary: "Front page of a barber shop located in Roxbury, Boston",
+      linkPreview: "https://bostonbarberinroxbury.netlify.app/",
+      linkSource: "https://github.com/desithomas/boston-barber",
+      image: "/boston-barber.png",
     },
     {
       name: "Delancey Bagels", 
