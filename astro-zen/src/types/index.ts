@@ -34,6 +34,7 @@ export interface ProjectProps {
   name: string;
   summary: string;
   image: string;
+  imageFit?: "cover" | "contain";
   linkPreview?: string;
   linkSource?: string;
 }

@@ -82,7 +82,8 @@ export const SITE_CONTENT: SiteContent = {
       summary: "Front page of a bagel shop on Delancey in NYC.",
       linkPreview: "https://delanceybagels.netlify.app/",
       linkSource: "https://github.com/immois/astro-zen",
-      image: "/delancey-bagels.png",
+      image: "/Screenshot 2026-09-11 at 4.31.18 PM.png",
+      imageFit: "contain",
     },
   ],
   about: { //edit the contents
