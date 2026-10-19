@@ -35,7 +35,7 @@ export const SITE_CONTENT: SiteContent = {
     {
       company: "Resilient Coders",
       position: "Software Engineer",
-      startDate: "Aug 2026",
+      startDate: "",
       endDate: "Current",
       summary: [
         "Full Stack Development (MERN)",
@@ -46,8 +46,8 @@ export const SITE_CONTENT: SiteContent = {
     {
       company: "SEEK Program @ CUNY Brooklyn College",
       position: "Program Analyst",
-      startDate: "Sep 2023",
-      endDate: "Aug 2026",
+      startDate: "",
+      endDate: "",
       summary: [
         "Data analytics focused on student retention and successful student outcomes",
         "Automating processes using Microsoft Power Platform to reduce time intensive tasks",
@@ -56,8 +56,8 @@ export const SITE_CONTENT: SiteContent = {
     {
       company: "Animal Care Centers of NYC",
       position: "Surrender Prevention Coordinator",
-      startDate: "May 2022",
-      endDate: "Sep 2023",
+      startDate: "",
+      endDate: "",
       summary:
         "Liased with partner veterinary vendors to provide clients with subsidized medical care for their pets to prevent surrender to NYC's animal shelter",
     },
