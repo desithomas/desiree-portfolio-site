@@ -35,8 +35,6 @@ export const SITE_CONTENT: SiteContent = {
     {
       company: "Resilient Coders",
       position: "Software Engineer",
-      startDate: "",
-      endDate: "Current",
       summary: [
         "Full Stack Development (MERN)",
         "Building and Mointaining websites for small & medium businesses",
@@ -46,8 +44,6 @@ export const SITE_CONTENT: SiteContent = {
     {
       company: "SEEK Program @ CUNY Brooklyn College",
       position: "Program Analyst",
-      startDate: "",
-      endDate: "",
       summary: [
         "Data analytics focused on student retention and successful student outcomes",
         "Automating processes using Microsoft Power Platform to reduce time intensive tasks",
@@ -56,30 +52,28 @@ export const SITE_CONTENT: SiteContent = {
     {
       company: "Animal Care Centers of NYC",
       position: "Surrender Prevention Coordinator",
-      startDate: "",
-      endDate: "",
       summary:
         "Liased with partner veterinary vendors to provide clients with subsidized medical care for their pets to prevent surrender to NYC's animal shelter",
     },
   ],
   projects: [
     {
-      name: "Philly Water Ice FrontPage", 
-      summary: "The front page of a small business site located in Philly.",
+      name: "Philly Water Ice Website", 
+      summary: "Website for a shaved ice business in Philadelphia",
       linkPreview: "https://phillyshavedicecream.netlify.app/",
       linkSource: "https://github.com/desithomas/philly-water-ice",
       image: "/philly-water-ice.png",
     },
     {
-      name: "Boston Barber", 
-      summary: "Front page of a barber shop located in Roxbury, Boston",
+      name: "Boston Barber Website", 
+      summary: "Website for a barber shop based in Boston",
       linkPreview: "https://bostonbarberinroxbury.netlify.app/",
       linkSource: "https://github.com/desithomas/boston-barber",
       image: "/boston-barber.png",
     },
     {
       name: "Delancey Bagels", 
-      summary: "Front page of a bagel shop on Delancey in NYC.",
+      summary: "Website for bagel shop in NYC.",
       linkPreview: "https://delanceybagels.netlify.app/",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/Screenshot 2026-09-11 at 4.31.18 PM.png",
